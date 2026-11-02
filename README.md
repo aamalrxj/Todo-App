@@ -85,4 +85,6 @@ Future Improvements
 - Recurring tasks and calendar integration.
 - Additional task analytics.
 
+![alt text](https://github.com/aamalrxj/Todo-App/blob/main/Screenshot%202026-11-03%20003228.png)
+![alt text](https://github.com/aamalrxj/Todo-App/blob/main/Screenshot%202026-11-03%20003314.png)
 Demo Video - https://drive.google.com/file/d/1P8xdoq5kUCwXqBDcqaiIx-e-h4i3Kk-l/view?usp=drive_link
