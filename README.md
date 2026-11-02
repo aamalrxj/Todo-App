@@ -79,6 +79,8 @@ Authentication & Data Storage
 - MongoDB stores user accounts and task information.
 - Task endpoints are protected so users can access only their own tasks.
 
+Demo Video - https://drive.google.com/file/d/1P8xdoq5kUCwXqBDcqaiIx-e-h4i3Kk-l/view?usp=drive_link
+
 Future Improvements
 - Task editing from the mobile interface.
 - Scheduled deadline reminders.
